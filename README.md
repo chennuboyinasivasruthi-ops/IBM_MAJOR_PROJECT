@@ -3,7 +3,7 @@
 
 ## 👥 Student Information
 * **Student Name:** CHENNUBOYINA SIVA SRUTHI
-* **College:** Seshadri Rao Gudlavalleru Engineering College
+* **College:**SESHADRI RAO GUDLAVALLERU ENGINEERING COLLEGE
 * **Year of Study:** 3rd Year B.Tech (Batch 2024-2028)
 * **Domain:** Data Analytics with AI
 
